@@ -1,0 +1,8 @@
+{
+  "name": "Aether IDE",
+  "description": "A futuristic, cross-platform cloud IDE with built-in AI assistance, file management, and instant deployment previews.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
